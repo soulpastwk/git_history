@@ -1,2 +1,1 @@
-# git_history
-git config --global alias.history 'log --graph'
+при вызове команды git history должна выполняться команда git log --graph (git history — не встроенная команда)
